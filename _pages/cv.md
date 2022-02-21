@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D. student in Statistics, The University of Manchester, UK.
 
