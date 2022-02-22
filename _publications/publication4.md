@@ -1,5 +1,5 @@
 ---
-title: "Improving forecasting by subsampling seasonal time series3."
+title: "Improving forecasting by subsampling seasonal time series."
 collection: publications
 permalink: https://www.tandfonline.com/doi/full/10.1080/00207543.2021.2022800
 excerpt: 'Xixi Li, Fotios Petropoulos, Yanfei Kang.'
