@@ -3,7 +3,7 @@ title: "Analysis of topological properties of complex network of Chinese stock b
 collection: publications
 permalink: https://ieeexplore.ieee.org/document/7996279
 excerpt: 'Xixi Li*, Qiang Wang, Suling Jia.'
-date: 2022-01-17
+date: 2017
 venue: ' International Conference on Service Systems and Service Management. IEEE.'
 paperurl: 'https://ieeexplore.ieee.org/document/7996279'
 ---
