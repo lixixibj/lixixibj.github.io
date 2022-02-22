@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Improving forecasting by subsampling seasonal time series."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.tandfonline.com/doi/full/10.1080/00207543.2021.2022800
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-01-17
+venue: 'International Journal of Production Research'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00207543.2021.2022800'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fpdf%2F10.1080%2F00207543.2021.2022800%3Fcasa_token%3DUvM0PEcdewwAAAAA%3AP6hH7MCKMA4dPtAJtKjN7Z4M-0YbPhEgJRXrFYg2kL6-LAqPrEsAem-G8IWfRt565XviksfLbkV2gQ)
