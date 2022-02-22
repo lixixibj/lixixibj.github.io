@@ -14,17 +14,18 @@ He is scheduled to obtain a Ph.D. degree in 07/2023 and will be in a job market 
 Research Goal
 ======
 Following three principles: interpretability, computability, and stability, his current research aims to:
-1.explore the role and use of deep learning in statistical time series models and bridge the gap between both.
-2.design and develop statistical time series models that incorporate the components of deep learning, while still ensuring rigorous statistical properties.
-3.develop computationally efficient statistical models for integer-valued time series analysis.
+
+* explore the role and use of deep learning in statistical time series models and bridge the gap between both.
+* design and develop statistical time series models that incorporate the components of deep learning, while still ensuring rigorous statistical properties.
+* develop computationally efficient statistical models for integer-valued time series analysis.
 
 Research Interests
 ======
-Time series analysis
-Integer-valued time series
-Deep learning
-Text mining
-Business intelligence
+* Time series analysis
+* Integer-valued time series
+* Deep learning
+* Text mining
+* Business intelligence
 
 
 
