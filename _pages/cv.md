@@ -12,48 +12,29 @@ redirect_from:
 Education
 ======
 
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D. student in Statistics, The University of Manchester, UK.
+* Bachelor in Information System, Beihang University 北京航空航天大学, 2012-2016
+* Bachelor in Applied Mathematics, Beihang University 北京航空航天大学, 2013-2016
+* Master in Industrial Engineering, Beihang University 北京航空航天大学, 2016-2019
+* Ph.D. student in Statistics, The University of Manchester, UK, 2019-2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* March 2017 – March 2018,  Research Intern, DERN (The Digital Enablement Research Network), The University of New South Wales.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* The 12th R Conference, Beijing, China 2019. Title: Forecasting with time series imaging 
+* The 2rd Global Conference on Theory and Applications of OR/OM for Sustainablility, Beijing, China 2017.
+Title: Analysis of topological properties of complex network of Chinese stock based on Copula tail correlation
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Time series analysis, undergraduate level, The University of Manchester, Teaching Assistant, 2020
+* Big data essentials, undergraduate level, Beihang University, Teaching Assistant, 2019
+* Management Information System, MBA level, Beihang University, Teaching Assitant, 2019 
+* Computational text analysis, undergraduate level, Beihang University, Lecturer, 2018
+* Object-oriented modelling analysis, undergraduate level, Beihang University, Teaching Assistant, 2017
   
-Service and leadership
+Reviewer
 ======
-* Currently signed in to 43 different slack teams
+* International Journal of Forecasting
