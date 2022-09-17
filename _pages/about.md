@@ -11,6 +11,13 @@ He is a third-year Ph.D. student in Statistics at The University of Manchester, 
 
 He is expected to obtain a Ph.D. degree in 07/2023 and will be in a job market seeking a Postdoc position related to statistical machine learning and time series analysis. If you have any vacancies for a job, feel free to share them with me.
 
+Education
+======
+* September 2019—Present, Ph.D. student in Statistics, The University of Manchester, UK.
+* September 2016—July 2019, M. in Industrial Engineering, Beihang University 北京航空航天大学.
+* September 2013—July 2016, B.Ec in Applied Mathematics, Beihang University 北京航空航天大学.
+* September 2012—July 2016, B.Ec in Information System, Beihang University 北京航空航天大学.
+
 Research Goal
 ======
 Following three principles: interpretability, computability, and stability, his current research aims to:
@@ -27,12 +34,13 @@ Research Interests
 * Text mining
 * Business intelligence
 
-Education
+Research Collaborators
 ======
-* September 2019—Present, Ph.D. student in Statistics, The University of Manchester, UK.
-* September 2016—July 2019, M. in Industrial Engineering, Beihang University 北京航空航天大学.
-* September 2013—July 2016, B.Ec in Applied Mathematics, Beihang University 北京航空航天大学.
-* September 2012—July 2016, B.Ec in Information System, Beihang University 北京航空航天大学.
+* Dr. Jingsong Yuan, The University of Manchester
+* Prof. Fotios Petropoulos, University of Bath
+* Prof. Yanfei Kang, Beihang Univerisity
+* Prof. Feng Li, Central University of Finance and Economics
+* Yun Bai, Mines Paris - PSL
 
 
 
