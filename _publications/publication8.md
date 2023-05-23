@@ -6,6 +6,6 @@ excerpt: 'Xixi Li, Jingsong Yuan.'
 date: 2022-09-21
 venue: 'arXiv'
 paperurl: ''
-code: 'https://arxiv.org/abs/2209.10587'
+code: 'https://github.com/lixixibj/DeepTVAR-data-code'
 ---
 [Online version]()
