@@ -46,8 +46,8 @@ Research Collaborators
 
 Journal Refereeing
 ======
-International Journal of Forecasting
-Scientific Reports
+* International Journal of Forecasting
+* Scientific Reports
 
 
 
