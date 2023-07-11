@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-He is a final year Ph.D. student in Statistics at The University of Manchester, specializing in statistical time series prediction using deep learning methodology. He is currently conducting his research under the guidance of Dr. Jingsong Yuan under a Dean's Doctoral Scholarship Award. 
+He is a final year Ph.D. student in Statistics at The University of Manchester, specializing in statistical time series prediction using deep learning methodology. He is currently conducting his research under the guidance of Dr. Jingsong Yuan. 
+
+Recent News
+======
+* 07-2023, Recipient of Chinese Government Award for Outstanding Self-financed Students Abroad (600 young talents across the world)
+* 09-2019, Recipient of Dean's Doctoral Scholarship Award
 
 Education
 ======
@@ -19,7 +24,6 @@ Education
 Research Goal
 ======
 Following three principles: interpretability, computability, and stability, his current research aims to:
-
 * explore the role and the use of deep learning in statistical time series models, and bridge the gap between both.
 * design and develop statistical time series models with deep learning components, while still ensuring rigorous statistical properties.
 * develop computationally efficient statistical models for integer-valued time series.
@@ -39,6 +43,11 @@ Research Collaborators
 * Prof. Yanfei Kang, Beihang Univerisity
 * Prof. Feng Li, Central University of Finance and Economics
 * Yun Bai, Mines Paris - PSL
+
+Journal Refereeing
+======
+International Journal of Forecasting
+Scientific Reports
 
 
 
