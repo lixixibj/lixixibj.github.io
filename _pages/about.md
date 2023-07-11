@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-He is a third-year Ph.D. student in Statistics at The University of Manchester, working with Dr. Jingsong Yuan on deep learning for multivariate time series modelling and forecasting under a Dean's Doctoral Scholarship Award. 
-
-He is expected to obtain a Ph.D. degree in 07/2023 and will be in a job market seeking a Postdoc position related to statistical machine learning and time series analysis. If you have any vacancies for a job, feel free to share them with me.
+He is a final year Ph.D. student in Statistics at The University of Manchester, specializing in statistical time series prediction using deep learning methodology. He is currently conducting his research under the guidance of Dr. Jingsong Yuan under a Dean's Doctoral Scholarship Award. 
 
 Education
 ======
@@ -22,9 +20,9 @@ Research Goal
 ======
 Following three principles: interpretability, computability, and stability, his current research aims to:
 
-* explore the role and use of deep learning in statistical time series models, and bridge the gap between both.
-* design and develop statistical time series models that incorporate the components of deep learning, while still ensuring rigorous statistical properties.
-* develop computationally efficient statistical models for integer-valued time series analysis.
+* explore the role and the use of deep learning in statistical time series models, and bridge the gap between both.
+* design and develop statistical time series models with deep learning components, while still ensuring rigorous statistical properties.
+* develop computationally efficient statistical models for integer-valued time series.
 
 Research Interests
 ======
