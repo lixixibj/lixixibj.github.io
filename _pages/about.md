@@ -12,6 +12,7 @@ He earned his Ph.D. degree in Statistics under the guidance of Dr. Jingsong Yuan
 
 Recent News
 ======
+* 01-2024, Ph.D. Graduation
 * 07-2023, Recipient of Chinese Government Award for Outstanding Self-financed Students Abroad (600 young talents across the world)
 * 09-2019, Recipient of Dean's Doctoral Scholarship Award
 
