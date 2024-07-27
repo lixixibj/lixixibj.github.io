@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-He earned his Ph.D. degree in Statistics under the guidance of Dr. Jingsong Yuan at The University of Manchester.
+He is currently a postdoctoral researcher at Department of Management and Engineering, Tsinghua University, working on time series forecasting and causal inference under the supervision of Dr. Xiaojie Mao. His research is funded by Shuimu Tsinghua Scholar Program. He earned his Ph.D. in Statistics from The University of Manchester, where he was advised by Dr. Jingsong Yuan.
 
 Recent News
 ======
+* 07-2024, Start a postdoc
 * 01-2024, Ph.D. Graduation
 * 07-2023, Recipient of Chinese Government Award for Outstanding Self-financed Students Abroad (600 young talents across the world)
 * 09-2019, Recipient of Dean's Doctoral Scholarship Award
@@ -32,7 +33,7 @@ Following three principles: interpretability, computability, and stability, his 
 
 Research Interests
 ======
-* Time series analysis
+* Time series forecasting
 * Causal inference
 * Deep learning
 * Text mining
