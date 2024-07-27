@@ -13,7 +13,7 @@ He is currently a postdoctoral researcher at Department of Management and Engine
 Recent News
 ======
 * 07-2024, Start a postdoc
-* 01-2024, Ph.D. Graduation
+* 03-2024, Ph.D. Graduation
 * 07-2023, Recipient of Chinese Government Award for Outstanding Self-financed Students Abroad (600 young talents across the world)
 * 09-2019, Recipient of Dean's Doctoral Scholarship Award
 
