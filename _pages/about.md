@@ -12,9 +12,9 @@ He is currently a postdoctoral researcher in the Department of Management and En
 
 Recent News
 ======
-* 07-2024, New journey as a postdoc at Tsinghua University, amazing!
+* 07-2024, Starting a new journey as a postdoc at Tsinghua University is amazing.
 * 06-2024, Successfully been selected for Shuimu Tsinghua Scholar Program, (funding rate: 1/28)
-* 03-2024, Ph.D. Graduation, fantastic!
+* 03-2024, Ph.D. Graduation is fantastic.
 * 07-2023, Recipient of Chinese Government Award for Outstanding Self-financed Students Abroad (600 young talents across the world)
 * 09-2019, Recipient of Dean's Doctoral Scholarship Award
 
