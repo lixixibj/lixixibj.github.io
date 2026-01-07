@@ -32,6 +32,16 @@ Education
 * September 2013—July 2016, B.Ec in Applied Mathematics, Beihang University, China.
 * September 2012—July 2016, B.Ec in Information Management and Information Systems, Beihang University, China.
 
+Research Collaborators
+======
+* Prof. James Taylor, University of Oxford
+* Prof. Xiaojie Mao, Tsinghua University
+* Dr. Jingsong Yuan, The University of Manchester
+* Prof. Xiaochun Meng, University of Bath
+* Prof. Fotios Petropoulos, University of Bath
+* Prof. Yanfei Kang, Beihang University
+* Prof. Feng Li, Peking University
+
 
 
 <a href="https://clustrmaps.com/site/1bvk5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QQlfacD5mErt4Pon60i9hbscPf5FXpzWt1H_6iWpN8s&cl=ffffff" /></a>
