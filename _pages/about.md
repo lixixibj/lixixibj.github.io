@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He is currently a Postdoctoral Researcher in the Department of Industrial Engineering at Tsinghua University, working on time series forecasting and causal inference under the supervision of Prof. [Xiaojie Mao](https://scholar.google.com/citations?user=XtSSJm0AAAAJ&hl=en). His research is funded by the Shuimu Tsinghua Scholar Program. He received his Ph.D. in Statistics from The University of Manchester, where he was advised by Dr. [Jingsong Yuan](https://research.manchester.ac.uk/en/persons/jingsong.yuan). He warmly welcomes collaborations and discussions on statistical time series forecasting — feel free to reach out at xixili0720@gmail.com.
+He is currently a Postdoctoral Researcher in the Department of Management and Engineering at Tsinghua University, working on time series forecasting and causal inference under the supervision of Prof. [Xiaojie Mao](https://scholar.google.com/citations?user=XtSSJm0AAAAJ&hl=en). His research is funded by the Shuimu Tsinghua Scholar Program. He received his Ph.D. in Statistics from The University of Manchester, where he was advised by Dr. [Jingsong Yuan](https://research.manchester.ac.uk/en/persons/jingsong.yuan). He warmly welcomes collaborations and discussions on statistical time series forecasting — feel free to reach out at xixili0720@gmail.com.
 
 ## Recent News
 
