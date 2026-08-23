@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-He is currently a Postdoctoral Researcher in the Department of Management and Engineering at Tsinghua University, working on time series forecasting and causal inference under the supervision of Prof. [Xiaojie Mao](https://scholar.google.com/citations?user=XtSSJm0AAAAJ&hl=en). His research is funded by the Shuimu Tsinghua Scholar Program. He received his Ph.D. in Statistics from The University of Manchester, where he was advised by Dr. [Jingsong Yuan](https://research.manchester.ac.uk/en/persons/jingsong.yuan). He warmly welcomes collaborations and discussions on statistical time series forecasting — feel free to reach out at xixili0720@gmail.com.
+He is a tenure-track Associate Professor in the Department of Quantitative Economics and Business Statistics at Beihang University. Before joining Beihang, he was a Postdoctoral Researcher in the Department of Management Science and Engineering at Tsinghua University, where he worked on time series forecasting and causal inference under the supervision of Prof. [Xiaojie Mao](https://scholar.google.com/citations?user=XtSSJm0AAAAJ&hl=en). His postdoctoral research was supported by the Shuimu Tsinghua Scholar Program.
+
+He received his Ph.D. in Statistics from The University of Manchester under the supervision of Dr. [Jingsong Yuan](https://research.manchester.ac.uk/en/persons/jingsong.yuan). He welcomes opportunities for collaboration and academic discussion in statistical time series forecasting and causal inference. Please feel free to contact him at [xixili0720@gmail.com](mailto:xixili0720@gmail.com).
+
 
 ## Recent News
 
+* **Jul 2026** — Joined Beihang University as a tenure-track Associate Professor.
+* **Jun 2026** — Completed my postdoctoral research at Tsinghua University.
 * **Jul 2024** — Excited to start a new journey as a Postdoctoral Researcher at Tsinghua University.
 * **Jun 2024** — Honored to be selected for the Shuimu Tsinghua Scholar Program (acceptance rate: 1/28).
-* **Mar 2024** — Successfully completed Ph.D. studies at The University of Manchester.
+* **Mar 2024** — Completed Ph.D. studies at The University of Manchester.
 * **Jul 2023** — Recipient of the Chinese Government Award for Outstanding Self-Financed Students Abroad (awarded to 600 outstanding young talents worldwide).
 * **Sep 2019** — Recipient of the Dean's Doctoral Scholarship Award at The University of Manchester.
 
 ## Research Interests
 
 * Statistical time series forecasting
+* Forecast combination
 * Causal inference
 * Statistical machine learning
 * Data-driven decision making
